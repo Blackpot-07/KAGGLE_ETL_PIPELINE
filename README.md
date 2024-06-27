@@ -12,7 +12,7 @@ This is an ETL pipeline that, downloads data from a kaggle competition inserts i
 * the program will take around 10-12 mins for the initial setup (it downloads the dataset directly from kaggle and then populates the database when you run it for the very first time) after the initial setup, it won't take so much time to run
 
 
-
+![st](https://github.com/Blackpot-07/KAGGLE_ETL_PIPELINE/assets/104737181/c622c12b-8074-4e68-acf0-6f8b767fa86e)
 
 # NOTE
 
